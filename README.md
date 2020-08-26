@@ -4,11 +4,11 @@ This plugins emits an additional file named `[file].hash` containing an MD5 hash
 
 # Usage
 
-`yarn add -D gulp-file-hash-plugin`
+`yarn add -D gulp-hash-file-plugin`
 
 ```js
 const { task, dest } = require('gulp');
-const hash = require('gulp-file-hash-plugin');
+const hash = require('gulp-hash-file-plugin');
 
 function myTask() {
     return src(files)
