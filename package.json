@@ -1,6 +1,6 @@
 {
   "name": "gulp-hash-file-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "https://github.com/rafaeldeoliveira/gulp-hash-file-plugin",
   "author": "Rafael de Oliveira <rafael@oliveira.dev>",
